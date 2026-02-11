@@ -14,7 +14,7 @@
 - 🎯 Goal: Become a Professional Developer
 - 📚 Exploring Programming Concepts
 - 🔥 Improving coding skills daily
--  *  Learning everyday
+- *  Learning everyday
 ---
 
 ## 🛠️ Skills
